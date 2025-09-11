@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Dynamic Projects Example</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    padding: 20px;
+}
+h2 { color: #2193b0; }
+#projects-container { margin-top: 20px; }
+.project-card {
+    background: #fff;
+    padding: 12px 16px;
+    margin-bottom: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.project-card button {
+    float: right;
+    background: #ff5c5c;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+#add-project-btn {
+    margin-top: 12px;
+    padding: 8px 16px;
+    background: #2193b0;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<h2>Projects</h2>
+<div id="projects-container"></div>
+<button id="add-project-btn">＋ Add Project</button>
+
+<script>
+// 从 localStorage 读取已有项目
+let projects = JSON.parse(localStorage.getItem("projects") || "[]");
+
+function saveProjects() {
+    localStorage.setItem("projects", JSON.stringify(projects));
+}
+
+function renderProjects() {
+    const container = document.getElementById("projects-container");
+    container.innerHTML = ""; // 清空内容
+    projects.forEach((p, index) => {
+        const card = document.createElement("div");
+        card.className = "project-card";
+        card.innerHTML = `
+            <strong contenteditable="true">${p.title}</strong>
+            <p contenteditable="true">${p.desc}</p>
+            <button onclick="deleteProject(${index})">Delete</button>
+        `;
+        // 保存修改事件
+        card.querySelector("strong").addEventListener("input", e => {
+            projects[index].title = e.target.innerText;
+            saveProjects();
+        });
+        card.querySelector("p").addEventListener("input", e => {
+            projects[index].desc = e.target.innerText;
+            saveProjects();
+        });
+        container.appendChild(card);
+    });
+}
+
+function addProject() {
+    projects.push({title: "New Project", desc: "Description"});
+    saveProjects();
+    renderProjects();
+}
+
+function deleteProject(index) {
+    projects.splice(index, 1);
+    saveProjects();
+    renderProjects();
+}
+
+document.getElementById("add-project-btn").addEventListener("click", addProject);
+
+// 初次渲染
+renderProjects();
+</script>
+
+</body>
+</html>
