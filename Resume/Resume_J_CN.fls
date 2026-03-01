@@ -1,8 +1,8 @@
-PWD /Users/zimin/开发/VScode_Project/Latex_File/Resume
+PWD /Users/zimin/Develop/VScode_Project/Job_Finding/Resume
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt
-INPUT /Users/zimin/开发/VScode_Project/Latex_File/Resume/Resume_J_CN.tex
+INPUT /Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Resume_J_CN.tex
 OUTPUT Resume_J_CN.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
