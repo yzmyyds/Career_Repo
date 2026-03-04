@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  7 AUG 2025 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.4)  4 MAR 2026 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/zimin/开发/VScode_Project/Latex_File/Resume/Ziming_Yan_Resume.tex
-(/Users/zimin/开发/VScode_Project/Latex_File/Resume/Ziming_Yan_Resume.tex
+**/Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Ziming_Yan_Resume.tex
+(/Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Ziming_Yan_Resume.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -293,14 +293,14 @@ Package rerunfilecheck Info: File `Ziming_Yan_Resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  12404 strings out of 473190
- 214385 string characters out of 5715801
+ 214391 string characters out of 5715801
  608088 words of memory out of 5000000
  35561 multiletter control sequences out of 15000+600000
  561318 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,354b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,356b,437s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Ziming_Yan_Resume.pdf (2 pages, 103208 bytes).
+Output written on Ziming_Yan_Resume.pdf (2 pages, 103209 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream

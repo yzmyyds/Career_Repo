@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1772373103.93949 "Resume_J_CN.xdv" "Resume_J_CN.pdf" "Resume_J_CN" 1772373104.28695 0
-  "Resume_J_CN.xdv" 1772373103.91292 24064 ce73381400f3b0590a829189f4e6c6f4 "xelatex"
+["xdvipdfmx"] 1772632253.40812 "Resume_J_CN.xdv" "Resume_J_CN.pdf" "Resume_J_CN" 1772632253.76785 0
+  "Resume_J_CN.xdv" 1772632253.35947 23488 de7e39755c08ea35f468913c23b112a6 "xelatex"
   (generated)
   "Resume_J_CN.pdf"
   (rewritten before read)
-["xelatex"] 1772373102.87456 "/Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Resume_J_CN.tex" "Resume_J_CN.xdv" "Resume_J_CN" 1772373104.2862 0
+["xelatex"] 1772632252.24068 "/Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Resume_J_CN.tex" "Resume_J_CN.xdv" "Resume_J_CN" 1772632253.76704 0
   "/System/Library/Fonts/Menlo.ttc" 1770268403 2156036 ec05dfca6821d85440da0899493002c3 ""
-  "/Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Resume_J_CN.tex" 1772373017.31614 4554 f576d5dabe393280815de04966e9ba75 ""
+  "/Users/zimin/Develop/VScode_Project/Job_Finding/Resume/Resume_J_CN.tex" 1772632243.45428 4656 91fa161666dddd4911f946b67821394b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -90,9 +90,9 @@
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1754306227 5639818 14f563d4bc452ae8b3db0dfe0b41a4b6 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "Figures/Photo_2inch.png" 1755058135.04619 151827 88b78a6d95d627336db5af4eb5e8f185 ""
-  "Resume_J_CN.aux" 1772373103.91187 128 8ec89a09013e497d5b92563b73b0583f "xelatex"
-  "Resume_J_CN.out" 1772373103.88874 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "Resume_J_CN.tex" 1772373017.31614 4554 f576d5dabe393280815de04966e9ba75 ""
+  "Resume_J_CN.aux" 1772632253.35869 128 852fc3e86949e4a73cd552c13992dc37 "xelatex"
+  "Resume_J_CN.out" 1772632253.33074 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "Resume_J_CN.tex" 1772632243.45428 4656 91fa161666dddd4911f946b67821394b ""
   (generated)
   "Resume_J_CN.aux"
   "Resume_J_CN.log"

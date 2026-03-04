@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.4)  1 MAR 2026 21:51
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.4)  4 MAR 2026 21:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -408,15 +408,15 @@ LaTeX Font Info:    ... okay on input line 23.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(46.97505pt, 503.55777pt, 46.97505pt)
-* v-part:(T,H,B)=(46.97505pt, 751.09674pt, 46.97505pt)
+* h-part:(L,W,R)=(43.36243pt, 510.78302pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 758.32199pt, 43.36243pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=503.55777pt
-* \textheight=751.09674pt
-* \oddsidemargin=-25.29494pt
-* \evensidemargin=-25.29494pt
-* \topmargin=-62.29494pt
+* \textwidth=510.78302pt
+* \textheight=758.32199pt
+* \oddsidemargin=-28.90756pt
+* \evensidemargin=-28.90756pt
+* \topmargin=-65.90756pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -511,32 +511,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: Figures/Photo_2inch.png Graphic file (type bmp)
 <Figures/Photo_2inch.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
-
- []
-
-
 
 [1
 
-]
-
-[2] (./Resume_J_CN.aux)
+] (./Resume_J_CN.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
@@ -545,12 +523,12 @@ Package rerunfilecheck Info: File `Resume_J_CN.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16254 strings out of 473832
- 341748 string characters out of 5729482
- 788934 words of memory out of 5000000
- 39103 multiletter control sequences out of 15000+600000
+ 16268 strings out of 473832
+ 342537 string characters out of 5729482
+ 790932 words of memory out of 5000000
+ 39117 multiletter control sequences out of 15000+600000
  561047 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,8n,114p,426b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,8n,114p,426b,332s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Resume_J_CN.xdv (2 pages, 24064 bytes).
+Output written on Resume_J_CN.xdv (1 page, 23488 bytes).
